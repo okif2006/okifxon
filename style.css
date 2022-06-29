@@ -9,7 +9,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #000;
-    color:red;
+    background: aqua;
+    color:black;
     font-family: sans-serif;
+
 }
